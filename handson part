@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>LISTS</h1>
+    <H1>Ordered Lists</H1>
+    <ol>Numeric 
+        <li>Item 1</li>
+        <li>Item 2</li>
+    </ol>
+        <ol style="list-style: lower-alpha;">Lowercase letter
+            <li>Item 1</li>
+            <li>Item 2</li>
+        </ol>
+        <ol style="list-style-type: upper-alpha;">Uppercase Letters
+            <li>Item 1</li>
+            <li>Item 2</li>
+        </ol>
+        <ol style="list-style-type:upper-roman;">Uppercase Roman Numbers
+        <li>Item 1</li>
+        <li>Item 2</li></ol>
+        <ol style="list-style-type: lower-roman;"> Lowercase Roman Numbers
+        <li>Item 1</li>
+        <li>Item 2</li></ol>
+        <br>
+        <h1>Unorder List</h1>
+        <ul>Default
+           <li>Item 1</li>
+           <li>Item 2</li>
+           <li>Item 3</li>
+        </ul>
+        <ul style="list-style: none;">None style 
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+
+        <ul style="list-style: disc;">Dsic style
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li></ul>
+        
+        <ul style="list-style: circle;">Circle style 
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li></ul>
+        <ul style="list-style:square;">Square style 
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li></ul>
+            
+           <h2>Mix</h2>
+            <li> Mobile Development</li>
+            <li>Web Development</li>
+            <li style="list-style: circle;">React</li>
+            <li style="list-style: circle;">Angular</li>
+            <li>Cloud services</li> <br>
+            <a href="F:\projects\projects\handson1.html">Go back</a>
+</body>
+</html>
