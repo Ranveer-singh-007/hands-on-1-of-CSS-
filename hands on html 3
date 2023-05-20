@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Practice Assessment 1 </h1> <hr>
+ <div>  <a href="">External Link </a> </div> <br>
+   <div> <a href="">Linkto internal file</a><br></div>
+    <p>Image kept inside folder</p>
+    <p>Image kept out side folder</p>
+    <img style="width:10%"  src="F:\projects\projects\img1.jpg" alt=""> <hr>
+    <h1>Lists</h1>
+  <div> <a href="">click here</a></div>  <br>
+    <vedio
+  <div> <a  href="F:\projects\projects\WhatsApp Video 2023-05-21 at 1.44.39 AM.mp4" >Click here to see vedio</a></div>
+</body>
+</html>
